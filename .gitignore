@@ -1,2 +1,2 @@
 # files to ignore 
-.streamlit/
+.streamlit/secrets.toml
